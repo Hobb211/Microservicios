@@ -40,6 +40,18 @@ Gestiona las operaciones relacionadas con los usuarios, desde la creación de cu
 - 📊 Actualización de Perfil: Modificación de detalles del usuario.
 - 🛂 Autorización: Verificación de permisos del usuario.
 
+### 🛍️ Microservicio de Pedidos
+Este microservicio gestiona todo lo relacionado con los pedidos de los usuarios, desde la confirmación del carrito hasta el seguimiento del estado de cada pedido. También se encarga de la facturación y de generar los recibos correspondientes.
+
+#### Funcionalidades Principales:
+- 📦 Creación de Pedido: Permite a los usuarios confirmar su carrito y convertirlo en un pedido oficial.
+- 🔄 Estado del Pedido: Permite seguir el progreso del pedido, desde la confirmación hasta la entrega.
+- 🧾 Generación de Facturas/Recibos: Una vez que se realiza un pedido, genera una factura o recibo correspondiente (*).
+- 🔙 Devoluciones: Gestiona las solicitudes de devolución de productos (*).
+- 📬 Notificaciones: Informa al usuario sobre las actualizaciones de estado de su pedido a través de correo electrónico o notificaciones en la plataforma (*).
+
+(*) Sujetos a modificación según alcance del proyecto
+
 ### 🌐 API Gateway: Centraliza las solicitudes y dirige el tráfico a los microservicios correspondientes, implementado en Golang.
 
 ## 👁️ Vistas incluidas:
