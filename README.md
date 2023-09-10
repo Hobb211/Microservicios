@@ -9,7 +9,7 @@ Plataforma E-commerce construida sobre una arquitectura de microservicios utiliz
 Este microservicio gestiona todo lo relacionado con la presentación, búsqueda y categorización de productos dentro del E-commerce. Se encarga de mantener actualizada la base de datos de productos y proporciona funciones de filtrado y búsqueda.
 
 #### Funcionalidades Principales
-* 🔍 Búsqueda: Permite a los usuarios buscar productos específicos dentro del catálogo.
+- 🔍 Búsqueda: Permite a los usuarios buscar productos específicos dentro del catálogo.
 * 🏷️ Filtrado: Filtra productos por categoría, precio, marca y otros criterios.
 🖼️ Presentación de Producto: Muestra detalles de un producto específico, incluyendo imágenes, descripción, precio y más.
 
