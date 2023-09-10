@@ -52,7 +52,8 @@ Este microservicio gestiona todo lo relacionado con los pedidos de los usuarios,
 
 (*) Sujetos a modificación según alcance del proyecto
 
-### 🌐 API Gateway: Centraliza las solicitudes y dirige el tráfico a los microservicios correspondientes, implementado en Golang.
+### 🌐 API Gateway
+Centraliza las solicitudes y dirige el tráfico a los microservicios correspondientes, implementado en Golang.
 
 ## 👁️ Vistas incluidas:
 - 📖 Navegación de productos.
