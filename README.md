@@ -10,7 +10,7 @@ Este microservicio gestiona todo lo relacionado con la presentación, búsqueda 
 
 #### Funcionalidades Principales
 - 🔍 Búsqueda: Permite a los usuarios buscar productos específicos dentro del catálogo.
-* 🏷️ Filtrado: Filtra productos por categoría, precio, marca y otros criterios.
+- 🏷️ Filtrado: Filtra productos por categoría, precio, marca y otros criterios.
 🖼️ Presentación de Producto: Muestra detalles de un producto específico, incluyendo imágenes, descripción, precio y más.
 
 ### 🛒 Microservicio de Carrito
