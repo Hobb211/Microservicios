@@ -1,0 +1,24 @@
+[submodule "users"]
+	path = users
+	url = https://github.com/Hobb211/Microservicios-users
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://github.com/Hobb211/Microservicios-rabbitmq
+[submodule "orders"]
+	path = orders
+	url = https://github.com/Hobb211/Microservicios-orders
+[submodule "products"]
+	path = products
+	url = https://github.com/Hobb211/Microservicios-products
+[submodule "payments"]
+	path = payments
+	url = https://github.com/Hobb211/Microservicios-payments
+[submodule "api"]
+	path = api
+	url = https://github.com/Hobb211/Microservicios-api
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Hobb211/Microservicios-Frontend
+[submodule "cart"]
+	path = cart
+	url = https://github.com/Hobb211/Microservicios-cart
